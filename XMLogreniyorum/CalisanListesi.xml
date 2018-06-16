@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+  
+<Calisanlar>
+  <Calisan TCNo="12345678901">
+    <Adi>Umit</Adi>
+    <Soyadi>Guler</Soyadi>
+    <DogumYili>1990</DogumYili>
+  </Calisan>
+
+
+
+  <Calisan TCNo="12345678901">
+    <Adi>Ugur</Adi>
+    <Soyadi>Guler</Soyadi>
+    <DogumYili>1993</DogumYili>
+  </Calisan>
+
+
+  <Calisan TCNo="12345678901">
+    <Adi>Yakup</Adi>
+    <Soyadi>Guler</Soyadi>
+    <DogumYili>1951</DogumYili>
+  </Calisan>
+
+</Calisanlar>

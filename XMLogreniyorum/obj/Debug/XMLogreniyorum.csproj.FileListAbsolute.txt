@@ -1,0 +1,11 @@
+C:\Users\umit\source\repos\XMLogreniyorum\XMLogreniyorum\bin\Debug\CalisanListesi.xml
+C:\Users\umit\source\repos\XMLogreniyorum\XMLogreniyorum\bin\Debug\XMLogreniyorum.exe.config
+C:\Users\umit\source\repos\XMLogreniyorum\XMLogreniyorum\bin\Debug\XMLogreniyorum.exe
+C:\Users\umit\source\repos\XMLogreniyorum\XMLogreniyorum\bin\Debug\XMLogreniyorum.pdb
+C:\Users\umit\source\repos\XMLogreniyorum\XMLogreniyorum\obj\Debug\XMLogreniyorum.csprojAssemblyReference.cache
+C:\Users\umit\source\repos\XMLogreniyorum\XMLogreniyorum\obj\Debug\XMLogreniyorum.Form1.resources
+C:\Users\umit\source\repos\XMLogreniyorum\XMLogreniyorum\obj\Debug\XMLogreniyorum.Properties.Resources.resources
+C:\Users\umit\source\repos\XMLogreniyorum\XMLogreniyorum\obj\Debug\XMLogreniyorum.csproj.GenerateResource.cache
+C:\Users\umit\source\repos\XMLogreniyorum\XMLogreniyorum\obj\Debug\XMLogreniyorum.csproj.CoreCompileInputs.cache
+C:\Users\umit\source\repos\XMLogreniyorum\XMLogreniyorum\obj\Debug\XMLogreniyorum.exe
+C:\Users\umit\source\repos\XMLogreniyorum\XMLogreniyorum\obj\Debug\XMLogreniyorum.pdb

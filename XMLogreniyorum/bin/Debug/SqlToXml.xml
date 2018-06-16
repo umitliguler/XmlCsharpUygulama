@@ -1,0 +1,21 @@
+<?xml version="1.0" standalone="yes"?>
+<Komponentler>
+  <Malzeme>
+    <Malzeme>Role      </Malzeme>
+    <Voltaji>1         </Voltaji>
+    <Akimi>5         </Akimi>
+    <Turu>TekKontak </Turu>
+  </Malzeme>
+  <Malzeme>
+    <Malzeme>Zener     </Malzeme>
+    <Voltaji>2         </Voltaji>
+    <Akimi>1         </Akimi>
+    <Turu>smd       </Turu>
+  </Malzeme>
+  <Malzeme>
+    <Malzeme>eeprom    </Malzeme>
+    <Voltaji>3         </Voltaji>
+    <Akimi>1         </Akimi>
+    <Turu>smd       </Turu>
+  </Malzeme>
+</Komponentler>
