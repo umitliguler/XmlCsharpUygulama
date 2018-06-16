@@ -49,12 +49,12 @@
             this.dataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.dataGridView1.Location = new System.Drawing.Point(25, 24);
             this.dataGridView1.Name = "dataGridView1";
-            this.dataGridView1.Size = new System.Drawing.Size(372, 212);
+            this.dataGridView1.Size = new System.Drawing.Size(448, 124);
             this.dataGridView1.TabIndex = 0;
             // 
             // btnVeriOku
             // 
-            this.btnVeriOku.Location = new System.Drawing.Point(119, 242);
+            this.btnVeriOku.Location = new System.Drawing.Point(154, 177);
             this.btnVeriOku.Name = "btnVeriOku";
             this.btnVeriOku.Size = new System.Drawing.Size(89, 38);
             this.btnVeriOku.TabIndex = 1;
@@ -64,7 +64,7 @@
             // 
             // btnVeriBul
             // 
-            this.btnVeriBul.Location = new System.Drawing.Point(25, 242);
+            this.btnVeriBul.Location = new System.Drawing.Point(60, 177);
             this.btnVeriBul.Name = "btnVeriBul";
             this.btnVeriBul.Size = new System.Drawing.Size(89, 38);
             this.btnVeriBul.TabIndex = 2;
@@ -74,7 +74,7 @@
             // 
             // btnVeriBul2
             // 
-            this.btnVeriBul2.Location = new System.Drawing.Point(25, 286);
+            this.btnVeriBul2.Location = new System.Drawing.Point(60, 221);
             this.btnVeriBul2.Name = "btnVeriBul2";
             this.btnVeriBul2.Size = new System.Drawing.Size(89, 35);
             this.btnVeriBul2.TabIndex = 3;
@@ -84,7 +84,7 @@
             // 
             // btnVeriDegistir
             // 
-            this.btnVeriDegistir.Location = new System.Drawing.Point(119, 286);
+            this.btnVeriDegistir.Location = new System.Drawing.Point(154, 221);
             this.btnVeriDegistir.Name = "btnVeriDegistir";
             this.btnVeriDegistir.Size = new System.Drawing.Size(89, 35);
             this.btnVeriDegistir.TabIndex = 4;
@@ -94,7 +94,7 @@
             // 
             // btnVeriBul3
             // 
-            this.btnVeriBul3.Location = new System.Drawing.Point(25, 327);
+            this.btnVeriBul3.Location = new System.Drawing.Point(60, 262);
             this.btnVeriBul3.Name = "btnVeriBul3";
             this.btnVeriBul3.Size = new System.Drawing.Size(91, 35);
             this.btnVeriBul3.TabIndex = 5;
@@ -104,7 +104,7 @@
             // 
             // btnVeriSil
             // 
-            this.btnVeriSil.Location = new System.Drawing.Point(119, 324);
+            this.btnVeriSil.Location = new System.Drawing.Point(154, 259);
             this.btnVeriSil.Name = "btnVeriSil";
             this.btnVeriSil.Size = new System.Drawing.Size(89, 38);
             this.btnVeriSil.TabIndex = 6;
@@ -114,7 +114,7 @@
             // 
             // btnVeriEkle
             // 
-            this.btnVeriEkle.Location = new System.Drawing.Point(213, 242);
+            this.btnVeriEkle.Location = new System.Drawing.Point(248, 177);
             this.btnVeriEkle.Name = "btnVeriEkle";
             this.btnVeriEkle.Size = new System.Drawing.Size(89, 38);
             this.btnVeriEkle.TabIndex = 7;
@@ -124,7 +124,7 @@
             // 
             // btnSQLtoXML
             // 
-            this.btnSQLtoXML.Location = new System.Drawing.Point(213, 286);
+            this.btnSQLtoXML.Location = new System.Drawing.Point(248, 221);
             this.btnSQLtoXML.Name = "btnSQLtoXML";
             this.btnSQLtoXML.Size = new System.Drawing.Size(89, 35);
             this.btnSQLtoXML.TabIndex = 8;
@@ -134,7 +134,7 @@
             // 
             // btnXmlToSql
             // 
-            this.btnXmlToSql.Location = new System.Drawing.Point(213, 325);
+            this.btnXmlToSql.Location = new System.Drawing.Point(248, 260);
             this.btnXmlToSql.Name = "btnXmlToSql";
             this.btnXmlToSql.Size = new System.Drawing.Size(89, 34);
             this.btnXmlToSql.TabIndex = 9;
@@ -144,7 +144,7 @@
             // 
             // btnSema
             // 
-            this.btnSema.Location = new System.Drawing.Point(308, 242);
+            this.btnSema.Location = new System.Drawing.Point(343, 177);
             this.btnSema.Name = "btnSema";
             this.btnSema.Size = new System.Drawing.Size(89, 37);
             this.btnSema.TabIndex = 10;
@@ -154,7 +154,7 @@
             // 
             // BtnXmlToSqlWithSchema
             // 
-            this.BtnXmlToSqlWithSchema.Location = new System.Drawing.Point(308, 282);
+            this.BtnXmlToSqlWithSchema.Location = new System.Drawing.Point(343, 217);
             this.BtnXmlToSqlWithSchema.Name = "BtnXmlToSqlWithSchema";
             this.BtnXmlToSqlWithSchema.Size = new System.Drawing.Size(89, 39);
             this.BtnXmlToSqlWithSchema.TabIndex = 11;
@@ -164,7 +164,7 @@
             // 
             // btnXmlSchemaValidation
             // 
-            this.btnXmlSchemaValidation.Location = new System.Drawing.Point(309, 324);
+            this.btnXmlSchemaValidation.Location = new System.Drawing.Point(344, 259);
             this.btnXmlSchemaValidation.Name = "btnXmlSchemaValidation";
             this.btnXmlSchemaValidation.Size = new System.Drawing.Size(88, 35);
             this.btnXmlSchemaValidation.TabIndex = 12;
@@ -176,7 +176,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(502, 388);
+            this.ClientSize = new System.Drawing.Size(519, 339);
             this.Controls.Add(this.btnXmlSchemaValidation);
             this.Controls.Add(this.BtnXmlToSqlWithSchema);
             this.Controls.Add(this.btnSema);
